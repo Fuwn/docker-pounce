@@ -1,5 +1,7 @@
 # 🐈 `docker-pounce`
 
+[pounce](https://git.causal.agency/pounce/), the IRC bouncer, but Dockerised
+
 ## Usage
 
 Running `docker-pounce` requires that the `USER` environment variable be set.
